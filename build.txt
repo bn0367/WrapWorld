@@ -1,0 +1,3 @@
+displayName = Wrap World
+author = bn0367
+version = 1.2
